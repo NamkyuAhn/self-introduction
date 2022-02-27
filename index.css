@@ -81,6 +81,7 @@
   /* Layout */
   body {
     padding: 16px;
+    background-color: #D6E6F5;
   }
   
   @media screen and (min-width: 720px) {
